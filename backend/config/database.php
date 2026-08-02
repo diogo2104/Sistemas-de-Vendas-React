@@ -6,7 +6,7 @@ $host = '127.0.0.1';
 $dbname = 'sales_system'; 
 $user = 'root';
 $password = '';
-$port = 3306;
+$port = 3306; 
 
 try {
     $pdo = new PDO(
