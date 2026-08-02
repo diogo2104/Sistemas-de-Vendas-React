@@ -3,7 +3,7 @@
 header('Content-Type: application/json; charset=utf-8');
 
 $host = '127.0.0.1'; 
-$dbname = 'sales_system';
+$dbname = 'sales_system'; 
 $user = 'root';
 $password = '';
 $port = 3306;
