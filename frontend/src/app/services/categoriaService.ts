@@ -5,3 +5,4 @@ export async function listarCategorias() {
   if (!response.ok) throw new Error('Erro ao listar categorias');
   return response.json(); 
 }
+ 
